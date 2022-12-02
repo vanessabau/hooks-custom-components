@@ -1,0 +1,26 @@
+.bgYellow {
+  background-color: yellow;
+}
+
+.fontBlack {
+  color: black;
+}
+
+.fontWhite {
+  color: white;
+}
+
+.pad8 {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.width100 {
+  width: 100px;
+}
+
+.radius15 {
+  border-radius: 15px;
+}
+
+/*# sourceMappingURL=common.css.map */

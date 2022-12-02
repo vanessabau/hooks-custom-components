@@ -1,0 +1,24 @@
+.btnClass .primary {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.btnClass .primary:hover {
+  color: white;
+  background-color: black;
+}
+.btnClass .primary:active {
+  color: black;
+  background-color: white;
+}
+.btnClass .disabled {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: dimgray;
+  background-color: lightgray;
+}
+
+button {
+  border: 0;
+}
+
+/*# sourceMappingURL=button.css.map */

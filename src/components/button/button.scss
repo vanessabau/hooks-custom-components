@@ -1,0 +1,30 @@
+@import './../../styles/_vars.scss';
+
+.btnClass{
+
+  .primary{
+    text-transform: uppercase;
+    font-weight: bold;
+
+    &:hover{
+      color: $white1;
+      background-color: $gray1;
+    }
+    &:active{
+      color: $gray1;
+      background-color: $white1;
+    }
+  }
+
+  .disabled{
+    text-transform: uppercase;
+    font-weight: bold;
+    color: dimgray;
+    background-color: lightgray;
+  }
+
+}
+
+button{
+  border: 0;
+}
